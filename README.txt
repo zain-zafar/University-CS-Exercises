@@ -1,1 +1,1 @@
-This contains all exercises completed so far in my University career. 
+All the projects and exercises I have completed in my University career so far and on my own time. 

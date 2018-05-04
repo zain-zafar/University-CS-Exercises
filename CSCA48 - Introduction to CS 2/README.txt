@@ -1,1 +1,1 @@
-All the exercises I have completed in CSCA48 during University. 
+All the exercises I have completed in the second semester of University. 
